@@ -4,7 +4,7 @@
 
 I am a frontend developer who loves react!
 
-- 🌍  I'm based in Umingan, Pangasinan
+- 🌍  I'm based in Umingan, Pangasinan, Philippines
 - 🖥️  See my portfolio at [MyPortfolio](http://app.netlify.com/teams/sorianomacjones/overview)
 - ✉️  You can contact me at [sorianomacjones@gmail.com](mailto:sorianomacjones@gmail.com)
 - 🚀  I'm currently working on [Clothing App](http://crown-clothing-reactjs.netlify.app/)
