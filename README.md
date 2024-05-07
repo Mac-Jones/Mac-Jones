@@ -5,7 +5,7 @@
 I am a frontend developer who loves react!
 
 - 🌍  I'm based in Umingan, Pangasinan, Philippines
-- 🖥️  See my portfolio at [MyPortfolio](http://app.netlify.com/teams/sorianomacjones/overview)
+- 🖥️  See my portfolio at [MyPortfolio](https://r3f-portfolio-ten.vercel.app/)
 - ✉️  You can contact me at [sorianomacjones@gmail.com](mailto:sorianomacjones@gmail.com)
 - 🚀  I'm currently working on [My Ecommerce App](https://mac-jones-store-reactjs-redux.netlify.app)
 - 🧠  I'm learning React Native and Node.js
